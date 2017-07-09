@@ -1,0 +1,7 @@
+GetInfoIntent get some information
+GetInfoIntent tell me about free clinics
+GetInfoIntent get information about free clinics
+GetInfoIntent do you know about free clinics near me
+GetInfoIntent get information about free clinics around me
+GetInfoIntent open her care
+GetInfoIntent open free clinic
